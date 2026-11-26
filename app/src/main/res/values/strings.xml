@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuestAPI</string>
+    <string name="entry_siswa">Tambah Siswa</string>
+    <string name="back">back</string>
+</resources>
